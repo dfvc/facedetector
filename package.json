@@ -11,7 +11,7 @@
     "core-js": "^2.6.5",
     "face-api.js": "^0.21.0",
     "lodash": "^4.17.15",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.1.0"
